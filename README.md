@@ -7,11 +7,17 @@
 ## 00 Usage
 
 Step1: Create a virtual environment
-    ```python3 -m venv venv```
+
+```python3 -m venv venv```
+
 Step2: Activate this virtual environment
-    ```source venv/bin/activate```
+
+```source venv/bin/activate```
+
 Step3: Install all the needed packages
-    ```pip install -r requirements.txt```
+
+```pip install -r requirements.txt```
+
 Finally, if you want to quit virtual environment you can type ```deactivate``` command in shell.
 
 ## Chapter 1
