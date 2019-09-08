@@ -6,6 +6,12 @@
 
 ## 00 Usage
 
+Step0: Download WireShark
+
+macOS: ```brew cask install wireshark```
+
+Windows: download in official website
+
 Step1: Create a virtual environment
 
 ```python3 -m venv venv```
